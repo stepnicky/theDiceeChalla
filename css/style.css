@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFVBQVU7RUFDVixZQUFZO0VBQ1osa0JBQWtCO0FDQ3RCOztBREVFO0VBQ0Usa0JBQWtCO0VBQ2xCLHFCQUFxQjtBQ0N6Qjs7QURHRTtFQUNFLHlCQUF5QjtBQ0E3Qjs7QURHRTtFQUNFLFlBQVk7RUFDWiwrQkFBK0I7RUFDL0IsMEJBQTBCO0VBQzFCLGVBQWU7RUFDZixjQUFjO0FDQWxCOztBREdFO0VBQ0UsZUFBZTtFQUNmLGNBQWM7RUFDZCxvQ0FBb0M7QUNBeEM7O0FER0U7RUFDRSxVQUFVO0FDQWQ7O0FER0U7RUFDRSxjQUFjO0VBQ2QsY0FBYztFQUNkLGtCQUFrQjtFQUNsQixvQ0FBb0M7QUNBeEMiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
